@@ -1,0 +1,322 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{F47E1C7C-37B2-48CD-9A2D-36D07968357C}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>LogIn</RootNamespace>
+    <AssemblyName>LogIn</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Apply.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Apply.Designer.cs">
+      <DependentUpon>Apply.cs</DependentUpon>
+    </Compile>
+    <Compile Include="badminton_apply.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="badminton_apply.Designer.cs">
+      <DependentUpon>badminton_apply.cs</DependentUpon>
+    </Compile>
+    <Compile Include="badminton_resul.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="badminton_resul.Designer.cs">
+      <DependentUpon>badminton_resul.cs</DependentUpon>
+    </Compile>
+    <Compile Include="badminton_schedule.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="badminton_schedule.Designer.cs">
+      <DependentUpon>badminton_schedule.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BasketballStudent.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BasketballStudent.Designer.cs">
+      <DependentUpon>BasketballStudent.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Football.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Football.Designer.cs">
+      <DependentUpon>Football.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FootballApply.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FootballApply.Designer.cs">
+      <DependentUpon>FootballApply.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FootballSeeResult.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FootballSeeResult.Designer.cs">
+      <DependentUpon>FootballSeeResult.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FootballStudent.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FootballStudent.Designer.cs">
+      <DependentUpon>FootballStudent.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form2.Designer.cs">
+      <DependentUpon>Form2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form3.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form3.Designer.cs">
+      <DependentUpon>Form3.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form4.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form4.Designer.cs">
+      <DependentUpon>Form4.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Newform.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Newform.designer.cs">
+      <DependentUpon>Newform.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Newform2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Newform2.designer.cs">
+      <DependentUpon>Newform2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Newform3.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Newform3.designer.cs">
+      <DependentUpon>Newform3.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Newform4.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Newform4.designer.cs">
+      <DependentUpon>Newform4.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PlayerRecruit.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PlayerRecruit.Designer.cs">
+      <DependentUpon>PlayerRecruit.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PlayerRecruitFootball.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PlayerRecruitFootball.Designer.cs">
+      <DependentUpon>PlayerRecruitFootball.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="PublishResult.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PublishResult.Designer.cs">
+      <DependentUpon>PublishResult.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PublishResultFootball.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PublishResultFootball.Designer.cs">
+      <DependentUpon>PublishResultFootball.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SeeResult.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SeeResult.Designer.cs">
+      <DependentUpon>SeeResult.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SeeSchedule.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SeeSchedule.Designer.cs">
+      <DependentUpon>SeeSchedule.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SeeScheduleFootball.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SeeScheduleFootball.Designer.cs">
+      <DependentUpon>SeeScheduleFootball.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SetSchedule.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SetSchedule.Designer.cs">
+      <DependentUpon>SetSchedule.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SetScheduleFootball.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SetScheduleFootball.Designer.cs">
+      <DependentUpon>SetScheduleFootball.cs</DependentUpon>
+    </Compile>
+    <Compile Include="student.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="student.Designer.cs">
+      <DependentUpon>student.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Apply.resx">
+      <DependentUpon>Apply.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="badminton_apply.resx">
+      <DependentUpon>badminton_apply.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="badminton_resul.resx">
+      <DependentUpon>badminton_resul.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="badminton_schedule.resx">
+      <DependentUpon>badminton_schedule.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BasketballStudent.resx">
+      <DependentUpon>BasketballStudent.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Football.resx">
+      <DependentUpon>Football.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FootballApply.resx">
+      <DependentUpon>FootballApply.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FootballSeeResult.resx">
+      <DependentUpon>FootballSeeResult.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FootballStudent.resx">
+      <DependentUpon>FootballStudent.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form2.resx">
+      <DependentUpon>Form2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form3.resx">
+      <DependentUpon>Form3.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form4.resx">
+      <DependentUpon>Form4.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Newform.resx">
+      <DependentUpon>Newform.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Newform2.resx">
+      <DependentUpon>Newform2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Newform3.resx">
+      <DependentUpon>Newform3.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Newform4.resx">
+      <DependentUpon>Newform4.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PlayerRecruit.resx">
+      <DependentUpon>PlayerRecruit.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PlayerRecruitFootball.resx">
+      <DependentUpon>PlayerRecruitFootball.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="PublishResult.resx">
+      <DependentUpon>PublishResult.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PublishResultFootball.resx">
+      <DependentUpon>PublishResultFootball.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SeeResult.resx">
+      <DependentUpon>SeeResult.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SeeSchedule.resx">
+      <DependentUpon>SeeSchedule.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SeeScheduleFootball.resx">
+      <DependentUpon>SeeScheduleFootball.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SetSchedule.resx">
+      <DependentUpon>SetSchedule.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SetScheduleFootball.resx">
+      <DependentUpon>SetScheduleFootball.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="student.resx">
+      <DependentUpon>student.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\football-icon-vector-20375430.jpg" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

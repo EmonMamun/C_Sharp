@@ -1,0 +1,120 @@
+C:\Users\ACER\source\repos\Tournament_tracker\LogIn\bin\Debug\LogIn.exe.config
+C:\Users\ACER\source\repos\Tournament_tracker\LogIn\bin\Debug\LogIn.exe
+C:\Users\ACER\source\repos\Tournament_tracker\LogIn\bin\Debug\LogIn.pdb
+C:\Users\ACER\source\repos\Tournament_tracker\LogIn\obj\Debug\LogIn.csproj.AssemblyReference.cache
+C:\Users\ACER\source\repos\Tournament_tracker\LogIn\obj\Debug\LogIn.Form1.resources
+C:\Users\ACER\source\repos\Tournament_tracker\LogIn\obj\Debug\LogIn.Properties.Resources.resources
+C:\Users\ACER\source\repos\Tournament_tracker\LogIn\obj\Debug\LogIn.csproj.GenerateResource.cache
+C:\Users\ACER\source\repos\Tournament_tracker\LogIn\obj\Debug\LogIn.csproj.CoreCompileInputs.cache
+C:\Users\ACER\source\repos\Tournament_tracker\LogIn\obj\Debug\LogIn.exe
+C:\Users\ACER\source\repos\Tournament_tracker\LogIn\obj\Debug\LogIn.pdb
+C:\Users\ACER\source\repos\Tournament_tracker\LogIn\obj\Debug\LogIn.Form2.resources
+C:\Users\ACER\source\repos\Tournament_tracker\LogIn\obj\Debug\LogIn.Form3.resources
+C:\Users\ACER\source\repos\Tournament_tracker\LogIn\obj\Debug\LogIn.PlayerRecruit.resources
+C:\Users\ACER\source\repos\Tournament_tracker\LogIn\obj\Debug\LogIn.PublishResult.resources
+C:\Users\ACER\source\repos\Tournament_tracker\LogIn\obj\Debug\LogIn.SetSchedule.resources
+C:\Users\ACER\source\repos\Tournament_tracker\LogIn\obj\Debug\LogIn.Apply.resources
+C:\Users\ACER\source\repos\Tournament_tracker\LogIn\obj\Debug\LogIn.BasketballStudent.resources
+C:\Users\ACER\source\repos\Tournament_tracker\LogIn\obj\Debug\LogIn.SeeResult.resources
+C:\Users\ACER\source\repos\Tournament_tracker\LogIn\obj\Debug\LogIn.SeeSchedule.resources
+C:\Users\ACER\source\repos\Tournament_tracker\LogIn\obj\Debug\LogIn.student.resources
+G:\Tournament_tracker\LogIn\bin\Debug\LogIn.exe.config
+G:\Tournament_tracker\LogIn\bin\Debug\LogIn.exe
+G:\Tournament_tracker\LogIn\bin\Debug\LogIn.pdb
+G:\Tournament_tracker\LogIn\obj\Debug\LogIn.csproj.AssemblyReference.cache
+G:\Tournament_tracker\LogIn\obj\Debug\LogIn.Apply.resources
+G:\Tournament_tracker\LogIn\obj\Debug\LogIn.BasketballStudent.resources
+G:\Tournament_tracker\LogIn\obj\Debug\LogIn.Form1.resources
+G:\Tournament_tracker\LogIn\obj\Debug\LogIn.Form2.resources
+G:\Tournament_tracker\LogIn\obj\Debug\LogIn.Form3.resources
+G:\Tournament_tracker\LogIn\obj\Debug\LogIn.PlayerRecruit.resources
+G:\Tournament_tracker\LogIn\obj\Debug\LogIn.Properties.Resources.resources
+G:\Tournament_tracker\LogIn\obj\Debug\LogIn.PublishResult.resources
+G:\Tournament_tracker\LogIn\obj\Debug\LogIn.SeeResult.resources
+G:\Tournament_tracker\LogIn\obj\Debug\LogIn.SeeSchedule.resources
+G:\Tournament_tracker\LogIn\obj\Debug\LogIn.SetSchedule.resources
+G:\Tournament_tracker\LogIn\obj\Debug\LogIn.student.resources
+G:\Tournament_tracker\LogIn\obj\Debug\LogIn.csproj.GenerateResource.cache
+G:\Tournament_tracker\LogIn\obj\Debug\LogIn.csproj.CoreCompileInputs.cache
+G:\Tournament_tracker\LogIn\obj\Debug\LogIn.exe
+G:\Tournament_tracker\LogIn\obj\Debug\LogIn.pdb
+G:\Tournament_tracker\LogIn\obj\Debug\LogIn.Newform3.resources
+G:\Tournament_tracker\LogIn\obj\Debug\LogIn.Newform.resources
+G:\Tournament_tracker\LogIn\obj\Debug\LogIn.Newform4.resources
+G:\Tournament_tracker\LogIn\obj\Debug\LogIn.Newform2.resources
+G:\Tournament_tracker\LogIn\obj\Debug\LogIn.badminton_apply.resources
+G:\Tournament_tracker\LogIn\obj\Debug\LogIn.badminton_resul.resources
+G:\Tournament_tracker\LogIn\obj\Debug\LogIn.badminton_schedule.resources
+G:\Tournament_tracker\LogIn\obj\Debug\LogIn.Form4.resources
+C:\Users\HP\Desktop\TEMPORARY WORKING\FINAL TERM\C#\GROUP PROJECT\EMON BHAI\Tournament_tracker\LogIn\bin\Debug\LogIn.exe.config
+C:\Users\HP\Desktop\TEMPORARY WORKING\FINAL TERM\C#\GROUP PROJECT\EMON BHAI\Tournament_tracker\LogIn\bin\Debug\LogIn.exe
+C:\Users\HP\Desktop\TEMPORARY WORKING\FINAL TERM\C#\GROUP PROJECT\EMON BHAI\Tournament_tracker\LogIn\bin\Debug\LogIn.pdb
+C:\Users\HP\Desktop\TEMPORARY WORKING\FINAL TERM\C#\GROUP PROJECT\EMON BHAI\Tournament_tracker\LogIn\obj\Debug\LogIn.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\TEMPORARY WORKING\FINAL TERM\C#\GROUP PROJECT\EMON BHAI\Tournament_tracker\LogIn\obj\Debug\LogIn.Apply.resources
+C:\Users\HP\Desktop\TEMPORARY WORKING\FINAL TERM\C#\GROUP PROJECT\EMON BHAI\Tournament_tracker\LogIn\obj\Debug\LogIn.badminton_apply.resources
+C:\Users\HP\Desktop\TEMPORARY WORKING\FINAL TERM\C#\GROUP PROJECT\EMON BHAI\Tournament_tracker\LogIn\obj\Debug\LogIn.badminton_resul.resources
+C:\Users\HP\Desktop\TEMPORARY WORKING\FINAL TERM\C#\GROUP PROJECT\EMON BHAI\Tournament_tracker\LogIn\obj\Debug\LogIn.badminton_schedule.resources
+C:\Users\HP\Desktop\TEMPORARY WORKING\FINAL TERM\C#\GROUP PROJECT\EMON BHAI\Tournament_tracker\LogIn\obj\Debug\LogIn.BasketballStudent.resources
+C:\Users\HP\Desktop\TEMPORARY WORKING\FINAL TERM\C#\GROUP PROJECT\EMON BHAI\Tournament_tracker\LogIn\obj\Debug\LogIn.Form1.resources
+C:\Users\HP\Desktop\TEMPORARY WORKING\FINAL TERM\C#\GROUP PROJECT\EMON BHAI\Tournament_tracker\LogIn\obj\Debug\LogIn.Form2.resources
+C:\Users\HP\Desktop\TEMPORARY WORKING\FINAL TERM\C#\GROUP PROJECT\EMON BHAI\Tournament_tracker\LogIn\obj\Debug\LogIn.Form3.resources
+C:\Users\HP\Desktop\TEMPORARY WORKING\FINAL TERM\C#\GROUP PROJECT\EMON BHAI\Tournament_tracker\LogIn\obj\Debug\LogIn.Form4.resources
+C:\Users\HP\Desktop\TEMPORARY WORKING\FINAL TERM\C#\GROUP PROJECT\EMON BHAI\Tournament_tracker\LogIn\obj\Debug\LogIn.Newform.resources
+C:\Users\HP\Desktop\TEMPORARY WORKING\FINAL TERM\C#\GROUP PROJECT\EMON BHAI\Tournament_tracker\LogIn\obj\Debug\LogIn.Newform2.resources
+C:\Users\HP\Desktop\TEMPORARY WORKING\FINAL TERM\C#\GROUP PROJECT\EMON BHAI\Tournament_tracker\LogIn\obj\Debug\LogIn.Newform3.resources
+C:\Users\HP\Desktop\TEMPORARY WORKING\FINAL TERM\C#\GROUP PROJECT\EMON BHAI\Tournament_tracker\LogIn\obj\Debug\LogIn.Newform4.resources
+C:\Users\HP\Desktop\TEMPORARY WORKING\FINAL TERM\C#\GROUP PROJECT\EMON BHAI\Tournament_tracker\LogIn\obj\Debug\LogIn.PlayerRecruit.resources
+C:\Users\HP\Desktop\TEMPORARY WORKING\FINAL TERM\C#\GROUP PROJECT\EMON BHAI\Tournament_tracker\LogIn\obj\Debug\LogIn.Properties.Resources.resources
+C:\Users\HP\Desktop\TEMPORARY WORKING\FINAL TERM\C#\GROUP PROJECT\EMON BHAI\Tournament_tracker\LogIn\obj\Debug\LogIn.PublishResult.resources
+C:\Users\HP\Desktop\TEMPORARY WORKING\FINAL TERM\C#\GROUP PROJECT\EMON BHAI\Tournament_tracker\LogIn\obj\Debug\LogIn.SeeResult.resources
+C:\Users\HP\Desktop\TEMPORARY WORKING\FINAL TERM\C#\GROUP PROJECT\EMON BHAI\Tournament_tracker\LogIn\obj\Debug\LogIn.SeeSchedule.resources
+C:\Users\HP\Desktop\TEMPORARY WORKING\FINAL TERM\C#\GROUP PROJECT\EMON BHAI\Tournament_tracker\LogIn\obj\Debug\LogIn.SetSchedule.resources
+C:\Users\HP\Desktop\TEMPORARY WORKING\FINAL TERM\C#\GROUP PROJECT\EMON BHAI\Tournament_tracker\LogIn\obj\Debug\LogIn.student.resources
+C:\Users\HP\Desktop\TEMPORARY WORKING\FINAL TERM\C#\GROUP PROJECT\EMON BHAI\Tournament_tracker\LogIn\obj\Debug\LogIn.csproj.GenerateResource.cache
+C:\Users\HP\Desktop\TEMPORARY WORKING\FINAL TERM\C#\GROUP PROJECT\EMON BHAI\Tournament_tracker\LogIn\obj\Debug\LogIn.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\TEMPORARY WORKING\FINAL TERM\C#\GROUP PROJECT\EMON BHAI\Tournament_tracker\LogIn\obj\Debug\LogIn.exe
+C:\Users\HP\Desktop\TEMPORARY WORKING\FINAL TERM\C#\GROUP PROJECT\EMON BHAI\Tournament_tracker\LogIn\obj\Debug\LogIn.pdb
+C:\Users\HP\Desktop\TEMPORARY WORKING\FINAL TERM\C#\GROUP PROJECT\EMON BHAI\Tournament_tracker\LogIn\obj\Debug\LogIn.Football.resources
+C:\Users\HP\Desktop\TEMPORARY WORKING\FINAL TERM\C#\GROUP PROJECT\EMON BHAI\Tournament_tracker\LogIn\obj\Debug\LogIn.PlayerRecruitFootball.resources
+C:\Users\HP\Desktop\TEMPORARY WORKING\FINAL TERM\C#\GROUP PROJECT\EMON BHAI\Tournament_tracker\LogIn\obj\Debug\LogIn.SetScheduleFootball.resources
+C:\Users\HP\Desktop\TEMPORARY WORKING\FINAL TERM\C#\GROUP PROJECT\EMON BHAI\Tournament_tracker\LogIn\obj\Debug\LogIn.PublishResultFootball.resources
+C:\Users\HP\Desktop\TEMPORARY WORKING\FINAL TERM\C#\GROUP PROJECT\EMON BHAI\Tournament_tracker\LogIn\obj\Debug\LogIn.FootballStudent.resources
+C:\Users\HP\Desktop\TEMPORARY WORKING\FINAL TERM\C#\GROUP PROJECT\EMON BHAI\Tournament_tracker\LogIn\obj\Debug\LogIn.FootballApply.resources
+C:\Users\HP\Desktop\TEMPORARY WORKING\FINAL TERM\C#\GROUP PROJECT\EMON BHAI\Tournament_tracker\LogIn\obj\Debug\LogIn.SeeScheduleFootball.resources
+C:\Users\HP\Desktop\TEMPORARY WORKING\FINAL TERM\C#\GROUP PROJECT\EMON BHAI\Tournament_tracker\LogIn\obj\Debug\LogIn.FootballSeeResult.resources
+G:\PROJECT v2\PROJECT v2\Tournament_tracker\LogIn\bin\Debug\LogIn.exe.config
+G:\PROJECT v2\PROJECT v2\Tournament_tracker\LogIn\bin\Debug\LogIn.exe
+G:\PROJECT v2\PROJECT v2\Tournament_tracker\LogIn\bin\Debug\LogIn.pdb
+G:\PROJECT v2\PROJECT v2\Tournament_tracker\LogIn\obj\Debug\LogIn.csproj.AssemblyReference.cache
+G:\PROJECT v2\PROJECT v2\Tournament_tracker\LogIn\obj\Debug\LogIn.Apply.resources
+G:\PROJECT v2\PROJECT v2\Tournament_tracker\LogIn\obj\Debug\LogIn.badminton_apply.resources
+G:\PROJECT v2\PROJECT v2\Tournament_tracker\LogIn\obj\Debug\LogIn.badminton_resul.resources
+G:\PROJECT v2\PROJECT v2\Tournament_tracker\LogIn\obj\Debug\LogIn.badminton_schedule.resources
+G:\PROJECT v2\PROJECT v2\Tournament_tracker\LogIn\obj\Debug\LogIn.BasketballStudent.resources
+G:\PROJECT v2\PROJECT v2\Tournament_tracker\LogIn\obj\Debug\LogIn.Football.resources
+G:\PROJECT v2\PROJECT v2\Tournament_tracker\LogIn\obj\Debug\LogIn.FootballApply.resources
+G:\PROJECT v2\PROJECT v2\Tournament_tracker\LogIn\obj\Debug\LogIn.FootballSeeResult.resources
+G:\PROJECT v2\PROJECT v2\Tournament_tracker\LogIn\obj\Debug\LogIn.FootballStudent.resources
+G:\PROJECT v2\PROJECT v2\Tournament_tracker\LogIn\obj\Debug\LogIn.Form1.resources
+G:\PROJECT v2\PROJECT v2\Tournament_tracker\LogIn\obj\Debug\LogIn.Form2.resources
+G:\PROJECT v2\PROJECT v2\Tournament_tracker\LogIn\obj\Debug\LogIn.Form3.resources
+G:\PROJECT v2\PROJECT v2\Tournament_tracker\LogIn\obj\Debug\LogIn.Form4.resources
+G:\PROJECT v2\PROJECT v2\Tournament_tracker\LogIn\obj\Debug\LogIn.Newform.resources
+G:\PROJECT v2\PROJECT v2\Tournament_tracker\LogIn\obj\Debug\LogIn.Newform2.resources
+G:\PROJECT v2\PROJECT v2\Tournament_tracker\LogIn\obj\Debug\LogIn.Newform3.resources
+G:\PROJECT v2\PROJECT v2\Tournament_tracker\LogIn\obj\Debug\LogIn.Newform4.resources
+G:\PROJECT v2\PROJECT v2\Tournament_tracker\LogIn\obj\Debug\LogIn.PlayerRecruit.resources
+G:\PROJECT v2\PROJECT v2\Tournament_tracker\LogIn\obj\Debug\LogIn.PlayerRecruitFootball.resources
+G:\PROJECT v2\PROJECT v2\Tournament_tracker\LogIn\obj\Debug\LogIn.Properties.Resources.resources
+G:\PROJECT v2\PROJECT v2\Tournament_tracker\LogIn\obj\Debug\LogIn.PublishResult.resources
+G:\PROJECT v2\PROJECT v2\Tournament_tracker\LogIn\obj\Debug\LogIn.PublishResultFootball.resources
+G:\PROJECT v2\PROJECT v2\Tournament_tracker\LogIn\obj\Debug\LogIn.SeeResult.resources
+G:\PROJECT v2\PROJECT v2\Tournament_tracker\LogIn\obj\Debug\LogIn.SeeSchedule.resources
+G:\PROJECT v2\PROJECT v2\Tournament_tracker\LogIn\obj\Debug\LogIn.SeeScheduleFootball.resources
+G:\PROJECT v2\PROJECT v2\Tournament_tracker\LogIn\obj\Debug\LogIn.SetSchedule.resources
+G:\PROJECT v2\PROJECT v2\Tournament_tracker\LogIn\obj\Debug\LogIn.SetScheduleFootball.resources
+G:\PROJECT v2\PROJECT v2\Tournament_tracker\LogIn\obj\Debug\LogIn.student.resources
+G:\PROJECT v2\PROJECT v2\Tournament_tracker\LogIn\obj\Debug\LogIn.csproj.GenerateResource.cache
+G:\PROJECT v2\PROJECT v2\Tournament_tracker\LogIn\obj\Debug\LogIn.csproj.CoreCompileInputs.cache
+G:\PROJECT v2\PROJECT v2\Tournament_tracker\LogIn\obj\Debug\LogIn.exe
+G:\PROJECT v2\PROJECT v2\Tournament_tracker\LogIn\obj\Debug\LogIn.pdb
